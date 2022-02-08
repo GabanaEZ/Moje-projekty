@@ -1,2 +1,2 @@
 # DC-BOT
-Oto mój github!
+Tu wrzucam moje projekty!
